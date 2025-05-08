@@ -7,7 +7,7 @@ schedule
 APscheduler
 # --- For-Database ------------ #
 motor==3.7.0
-pymongo==4.12.1
+pymongo[srv]
 dnspython
 # --- For-Web-Response ------- #
 aiohttp
